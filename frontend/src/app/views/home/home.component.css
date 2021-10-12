@@ -1,0 +1,9 @@
+.home .title{
+    font-size: 3rem; /* se uma fonte é 14px, usando ex 3rem, é 3x 14*/
+    font-weight: 300;
+    line-height: 1.2; /*altura da linha*/
+}
+
+.home .subtitle{
+    font-size: 1.1em; /* em é sempre referencia de uma div,ou algo anterior*/
+}

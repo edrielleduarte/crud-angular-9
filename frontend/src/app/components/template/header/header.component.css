@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}
+
+.header .logo{
+    max-height: 32px; /*altura da logo no header*/
+}
+
+.header .title-group{ /*se colocar virgula entre as classes no css, da interferencia nesse caso de espaçamento*/
+    padding-left: 25px;
+}
+.header, .title-group i{
+    padding-right: 5px;
+}

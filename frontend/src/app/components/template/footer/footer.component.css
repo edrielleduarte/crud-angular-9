@@ -1,0 +1,13 @@
+.footer{
+    position: fixed;
+    bottom: 0;  /*footer ficado la em baixo na pagina e fixo*/
+  
+    display: flex;
+    justify-content: flex-end; /*texto no final da linha*/
+
+}
+
+.footer > span{ /*referencia aquela classe*/
+    font-size: 1.1rem;
+    font-weight: 300;
+}
